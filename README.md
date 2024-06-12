@@ -552,6 +552,12 @@
       var car = Object.create(vehicle, carProps);
       console.log(car);
       ```
+      following is printed on the screen
+      ```javascript
+      
+      model : "Golf"
+      type : "Volkswagen"
+      ```
 
    4. **Function constructor:**
 
